@@ -83,7 +83,7 @@ class Juego:
             return "Empate"
         
         return None
-
+    
 # Código principal para iniciar el juego
 root = Tk()
 juego = Juego(root)
